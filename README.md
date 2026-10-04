@@ -11,6 +11,8 @@ MapTrap is a Windows app for creating and customizing grid overlays images - mai
 - Image export: Choose the output format and quality where supported.
 - Automatic updates: Download new versions in the background and install when ready.
 
+The software is absolutly free and no ads. You may, however, donate if you wish here: https://ko-fi.com/maptrap
+
 © 2026 Klim Chugunkin. All rights reserved.
 MapTrap is free to use for personal and commercial purposes. Selling the app or including it in paid software bundles is prohibited. The source code is proprietary and is not covered by an open-source license. See the included LICENSE.txt for full terms.
 MapTrap claims no ownership of images created or exported with the app. Rights to original images remain with their respective owners.
