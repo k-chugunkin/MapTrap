@@ -1,6 +1,7 @@
 # MapTrap
-MapTrap is a Windows app for creating and customizing grid overlays images - mainly for TTRPG games, but possibly for other purposes.
-Main features include:
+MapTrap is a Windows 64-bit application for creating and customizing grid overlays images - mainly for TTRPG games, but possibly for other purposes.
+
+### Main features include:
 - Multiple grid types: Square, hexagonal, and isometric.
 - Precise adjustments: Control cell dimensions, line thickness, color, angle, and offsets.
 - Custom grid distortion: Adjust each side independently to fit your image.
@@ -17,6 +18,8 @@ For feedback, proposals, or support, please send an email to: k.chugunkin@icloud
 
 MapTrap is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
 
-© 2026 Klim Chugunkin. All rights reserved.
+---
+
+<sub>© 2026 Klim Chugunkin. All rights reserved.
 MapTrap is free to use for personal and commercial purposes. Selling the app or including it in paid software bundles is prohibited. The source code is proprietary and is not covered by an open-source license. See the included LICENSE.txt for full terms.
-MapTrap claims no ownership of images created or exported with the app. Rights to original images remain with their respective owners.
+MapTrap claims no ownership of images created or exported with the app. Rights to original images remain with their respective owners.</sub>
