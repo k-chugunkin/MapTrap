@@ -13,6 +13,7 @@ Main features include:
 - Automatic updates: Download new versions in the background and install when ready.
 
 To get the app, please click on Releases on the right sidebar and download `MapTrap-Setup-x.x.x-win-x64.exe`.
+For feedback, proposals, or support, please send an email to: k.chugunkin@icloud.com
 
 MapTrap is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
 
