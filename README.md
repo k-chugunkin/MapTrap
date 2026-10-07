@@ -1,4 +1,4 @@
-# MapTrap
+# #MapTrap
 MapTrap is a Windows 64-bit application for creating and customizing grid overlays images - mainly for TTRPG games, but possibly for other purposes.
 
 ### Main features include:
@@ -15,9 +15,14 @@ MapTrap is a Windows 64-bit application for creating and customizing grid overla
 
 To get the app, please click on Releases on the right sidebar and download `MapTrap-Setup-x.x.x-win-x64.exe`.
 
-For feedback, proposals, or support please send an email to: k.chugunkin@icloud.com
+For feedback, proposals, or support please send an email to: k.chugunkin@icloud.com, or join our Discord Server, where you'll find a dedicated channel "MapTrap" for any feedback.
 
-MapTrap is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
+<a href="https://discord.gg/xK6SkPQpxv">
+  <img src="https://img.shields.io/badge/Join_our_Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join our Discord" width="200">
+</a>
+<br><br>
+
+`#MapTrap` is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
 
 <a href='https://ko-fi.com/A8X4286JY3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -25,4 +30,4 @@ MapTrap is completely free and ad-free piece of software. If you enjoy using it 
 
 <sub>© 2026 Klim Chugunkin. All rights reserved.
 MapTrap is free to use for personal and commercial purposes. Selling the app or including it in paid software bundles is prohibited. The source code is proprietary and is not covered by an open-source license. See the included LICENSE.txt for full terms.
-MapTrap claims no ownership of images created or exported with the app. Rights to original images remain with their respective owners.</sub>
+MapTrap claims no ownership of images created or exported with the app. Rights to original images remain with their respective owners.</sub>"
