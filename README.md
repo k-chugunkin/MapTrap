@@ -19,6 +19,8 @@ For feedback, proposals, or support please send an email to: k.chugunkin@icloud.
 
 MapTrap is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
 
+<a href='https://ko-fi.com/A8X4286JY3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ---
 
 <sub>© 2026 Klim Chugunkin. All rights reserved.
