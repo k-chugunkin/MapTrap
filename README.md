@@ -1,8 +1,8 @@
 # #MapTrap
-MapTrap is a Windows 64-bit application for creating and customizing grid overlays images - mainly for TTRPG games, but possibly for other purposes.
+MapTrap is a Windows 64-bit application for creating and customizing grid overlays for images - mainly for TTRPG games, but possibly for other purposes.
 
 ### Main features include:
-- Multiple grid types: Square, hexagonal, and isometric.
+- Multiple grid types: Square, Hexagonal, and Isometric.
 - Precise adjustments: Control cell dimensions, line thickness, color, angle, and offsets.
 - Custom grid distortion: Adjust each side independently to fit your image.
 - Brush tools: Selectively erase or restore the grid with adjustable size, opacity, and feathering.
@@ -13,20 +13,23 @@ MapTrap is a Windows 64-bit application for creating and customizing grid overla
 - Image export: Choose the output format and quality where supported.
 - Automatic updates: Download new versions in the background and install when ready.
 
-To get the app, hit the download button bellow, or proceed to the [Releases](https://github.com/k-chugunkin/MapTrap/releases) (also on the right sidebar)
+### Download the app
+Hit the **Download** button bellow to get the latest version, or proceed to the [Releases](https://github.com/k-chugunkin/MapTrap/releases) (also on the right sidebar) and download `MapTrap-Setup-x.x.x-win-x64.exe` file from the release you want (latest is recommended).
 
-<a href="https://github.com/k-chugunkin/MapTrap/releases/download/v1.0.0/MapTrap-Setup-1.0.0-win-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_Download_MapTrap-v1.0.0-28A745?style=for-the-badge&labelColor=1D1E21" alt="Download MapTrap v1.0.0 for Windows x64">
+<a href="https://github.com/k-chugunkin/MapTrap/releases/latest">
+  <img src="https://img.shields.io/badge/Download%20%23MapTrap-2ea44f?style=flat" alt="Download #MapTrap" width="200">
 </a>
-<br><br>
+<br>
 
+### Feedback
 For feedback, proposals, or support please send an email to: k.chugunkin@icloud.com, or join our Discord Server, where you'll find a dedicated channel "MapTrap" for any feedback.
 
 <a href="https://discord.gg/xK6SkPQpxv">
   <img src="https://img.shields.io/badge/Join_our_Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join our Discord" width="200">
 </a>
-<br><br>
+<br>
 
+### Support
 `#MapTrap` is completely free and ad-free piece of software. If you enjoy using it and would like to support its development, you can [buy me a coffee](https://ko-fi.com/maptrap). Your support is always appreciated, never required.
 
 <a href='https://ko-fi.com/A8X4286JY3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
