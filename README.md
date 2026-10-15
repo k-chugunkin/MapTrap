@@ -13,7 +13,12 @@ MapTrap is a Windows 64-bit application for creating and customizing grid overla
 - Image export: Choose the output format and quality where supported.
 - Automatic updates: Download new versions in the background and install when ready.
 
-To get the app, please click on Releases on the right sidebar and download `MapTrap-Setup-x.x.x-win-x64.exe`.
+To get the app, hit the download button bellow, or proceed to the [Releases](https://github.com/k-chugunkin/MapTrap/releases) (also on the right sidebar)
+
+<a href="https://github.com/k-chugunkin/MapTrap/releases/download/v1.0.0/MapTrap-Setup-1.0.0-win-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_Download_MapTrap-v1.0.0-28A745?style=for-the-badge&labelColor=1D1E21" alt="Download MapTrap v1.0.0 for Windows x64">
+</a>
+<br><br>
 
 For feedback, proposals, or support please send an email to: k.chugunkin@icloud.com, or join our Discord Server, where you'll find a dedicated channel "MapTrap" for any feedback.
 
